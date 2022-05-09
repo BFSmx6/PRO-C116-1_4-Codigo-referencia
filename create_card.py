@@ -6,7 +6,7 @@ rocket = img[120:360,400:500]
 
 img[0:240, 500:600] = rocket
 
-text_to_show = "I love coding at WhiteHatJr."
+text_to_show = "Amo programar en BYJU'S Future Schoool."
 
 
 cv2.putText(img,  
@@ -19,7 +19,7 @@ cv2.putText(img,
 
 cv2.imshow("output",img)
 
-###### ADDITIONAL ACTIVITY ####
+###### Actividad adicional ####
 
 # cv2.imwrite("Greetings.jpg",img)
 
