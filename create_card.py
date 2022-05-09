@@ -6,7 +6,7 @@ rocket = img[120:360,400:500]
 
 img[0:240, 500:600] = rocket
 
-text_to_show = "Amo programar en BYJU'S Future Schoool."
+text_to_show = "Me encanta programar en BYJU'S Future Schoool."
 
 
 cv2.putText(img,  
